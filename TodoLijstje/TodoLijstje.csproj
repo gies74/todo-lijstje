@@ -198,6 +198,12 @@
     <Content Include="Resources\klok.gif" />
     <Content Include="Resources\ToDo.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DraggableTabControl\DraggableTabControl.csproj">
+      <Project>{9768ff46-1509-4b32-9b23-5db183d8a348}</Project>
+      <Name>DraggableTabControl</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

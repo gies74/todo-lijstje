@@ -37,6 +37,7 @@ namespace TodoLijstje
             this.eigenschappenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sorteerTakenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.verwijderVoltooidToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.verwijderAllesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.verbergToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toonverbergTabToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -60,7 +61,6 @@ namespace TodoLijstje
             this.tcActLijst = new DraggableTabControl.DraggableTabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
-            this.checkForUpdateToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cmActiviteit.SuspendLayout();
             this.cmTaak.SuspendLayout();
             this.tcActLijst.SuspendLayout();
@@ -75,13 +75,13 @@ namespace TodoLijstje
             this.eigenschappenToolStripMenuItem,
             this.sorteerTakenToolStripMenuItem,
             this.verwijderVoltooidToolStripMenuItem,
+            this.verwijderAllesToolStripMenuItem,
             this.toolStripSeparator1,
             this.verbergToolStripMenuItem,
             this.toonverbergTabToolStripMenuItem,
             this.toolStripSeparator2,
             this.geagendeerdeTakenToolStripMenuItem,
             this.toolStripSeparator3,
-            this.checkForUpdateToolStripMenuItem,
             this.opslaanToolStripMenuItem});
             this.cmActiviteit.Name = "cmActiviteit";
             resources.ApplyResources(this.cmActiviteit, "cmActiviteit");
@@ -122,6 +122,12 @@ namespace TodoLijstje
             this.verwijderVoltooidToolStripMenuItem.Name = "verwijderVoltooidToolStripMenuItem";
             resources.ApplyResources(this.verwijderVoltooidToolStripMenuItem, "verwijderVoltooidToolStripMenuItem");
             this.verwijderVoltooidToolStripMenuItem.Click += new System.EventHandler(this.VerwijderVoltooid_Click);
+            // 
+            // verwijderAllesToolStripMenuItem
+            // 
+            this.verwijderAllesToolStripMenuItem.Name = "verwijderAllesToolStripMenuItem";
+            resources.ApplyResources(this.verwijderAllesToolStripMenuItem, "verwijderAllesToolStripMenuItem");
+            this.verwijderAllesToolStripMenuItem.Click += new System.EventHandler(this.VerwijderVoltooid_Click);
             // 
             // toolStripSeparator1
             // 
@@ -271,15 +277,8 @@ namespace TodoLijstje
             // webBrowser1
             // 
             resources.ApplyResources(this.webBrowser1, "webBrowser1");
-            this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.Url = new System.Uri("", System.UriKind.Relative);
-            // 
-            // checkForUpdateToolStripMenuItem
-            // 
-            this.checkForUpdateToolStripMenuItem.Name = "checkForUpdateToolStripMenuItem";
-            resources.ApplyResources(this.checkForUpdateToolStripMenuItem, "checkForUpdateToolStripMenuItem");
-            this.checkForUpdateToolStripMenuItem.Click += new System.EventHandler(this.checkForUpdateToolStripMenuItem_Click);
             // 
             // MainForm
             // 
@@ -292,10 +291,10 @@ namespace TodoLijstje
             this.Controls.Add(this.tcActLijst);
             this.Name = "MainForm";
             this.TopMost = true;
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.MaximizedBoundsChanged += new System.EventHandler(this.Form1_Resize);
-            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.OpenOpties);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_Unload);
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.OpenOpties);
             this.Resize += new System.EventHandler(this.Form1_Resize);
             this.cmActiviteit.ResumeLayout(false);
             this.cmTaak.ResumeLayout(false);
@@ -338,7 +337,7 @@ namespace TodoLijstje
         private System.Windows.Forms.ToolStripMenuItem verbergToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem verwijderVoltooidToolStripMenuItem;
         private System.Windows.Forms.Button btForceTick;
-        private System.Windows.Forms.ToolStripMenuItem checkForUpdateToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem verwijderAllesToolStripMenuItem;
     }
 }
 

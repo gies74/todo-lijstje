@@ -112,17 +112,17 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="cmActiviteit.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="cmActiviteit.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="verwijderToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 22</value>
+    <value>176, 22</value>
   </data>
   <data name="verwijderToolStripMenuItem.Text" xml:space="preserve">
     <value>Verwijder tab</value>
@@ -131,78 +131,78 @@
     <value>100, 21</value>
   </data>
   <data name="hernoemToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 22</value>
+    <value>176, 22</value>
   </data>
   <data name="hernoemToolStripMenuItem.Text" xml:space="preserve">
     <value>Hernoem tab</value>
   </data>
   <data name="eigenschappenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 22</value>
+    <value>176, 22</value>
   </data>
   <data name="eigenschappenToolStripMenuItem.Text" xml:space="preserve">
     <value>Tijdbudget...</value>
   </data>
   <data name="sorteerTakenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 22</value>
+    <value>176, 22</value>
   </data>
   <data name="sorteerTakenToolStripMenuItem.Text" xml:space="preserve">
     <value>Sorteer taken</value>
   </data>
   <data name="verwijderVoltooidToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 22</value>
+    <value>176, 22</value>
   </data>
   <data name="verwijderVoltooidToolStripMenuItem.Text" xml:space="preserve">
     <value>Verwijder voltooid</value>
   </data>
+  <data name="verwijderAllesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>176, 22</value>
+  </data>
+  <data name="verwijderAllesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Verwijder alles</value>
+  </data>
   <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 6</value>
+    <value>173, 6</value>
   </data>
   <data name="verbergToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 22</value>
+    <value>176, 22</value>
   </data>
   <data name="verbergToolStripMenuItem.Text" xml:space="preserve">
     <value>Verberg</value>
   </data>
   <data name="toonverbergTabToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 22</value>
+    <value>176, 22</value>
   </data>
   <data name="toonverbergTabToolStripMenuItem.Text" xml:space="preserve">
     <value>Toon/verberg tabs...</value>
   </data>
   <data name="toolStripSeparator2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 6</value>
+    <value>173, 6</value>
   </data>
   <data name="geagendeerdeTakenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 22</value>
+    <value>176, 22</value>
   </data>
   <data name="geagendeerdeTakenToolStripMenuItem.Text" xml:space="preserve">
     <value>Herinneringen...</value>
   </data>
   <data name="toolStripSeparator3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 6</value>
-  </data>
-  <data name="checkForUpdateToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 22</value>
-  </data>
-  <data name="checkForUpdateToolStripMenuItem.Text" xml:space="preserve">
-    <value>Check for update</value>
+    <value>173, 6</value>
   </data>
   <data name="opslaanToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 22</value>
+    <value>176, 22</value>
   </data>
   <data name="opslaanToolStripMenuItem.Text" xml:space="preserve">
     <value>Opslaan</value>
   </data>
   <data name="cmActiviteit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 264</value>
+    <value>177, 264</value>
   </data>
   <data name="&gt;&gt;cmActiviteit.Name" xml:space="preserve">
     <value>cmActiviteit</value>
   </data>
   <data name="&gt;&gt;cmActiviteit.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btNewAct.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
   </data>
@@ -215,7 +215,7 @@
   <data name="btNewAct.Size" type="System.Drawing.Size, System.Drawing">
     <value>31, 28</value>
   </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btNewAct.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
@@ -223,7 +223,7 @@
     <value>btNewAct</value>
   </data>
   <data name="&gt;&gt;btNewAct.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btNewAct.Parent" xml:space="preserve">
     <value>$this</value>
@@ -231,53 +231,53 @@
   <data name="&gt;&gt;btNewAct.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <metadata name="cmTaak.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="cmTaak.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>126, 17</value>
   </metadata>
   <data name="verwijderToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>130, 22</value>
+    <value>119, 22</value>
   </data>
   <data name="verwijderToolStripMenuItem1.Text" xml:space="preserve">
     <value>Verwijder</value>
   </data>
   <data name="bovenaanToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>141, 22</value>
+    <value>130, 22</value>
   </data>
   <data name="bovenaanToolStripMenuItem1.Text" xml:space="preserve">
     <value>Bovenaan</value>
   </data>
   <data name="naarBovenToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>141, 22</value>
+    <value>130, 22</value>
   </data>
   <data name="naarBovenToolStripMenuItem1.Text" xml:space="preserve">
     <value>Naar boven</value>
   </data>
   <data name="naarOnderToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>141, 22</value>
+    <value>130, 22</value>
   </data>
   <data name="naarOnderToolStripMenuItem1.Text" xml:space="preserve">
     <value>Naar onder</value>
   </data>
   <data name="onderaanToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>141, 22</value>
+    <value>130, 22</value>
   </data>
   <data name="onderaanToolStripMenuItem1.Text" xml:space="preserve">
     <value>Onderaan</value>
   </data>
   <data name="verplaatsToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>130, 22</value>
+    <value>119, 22</value>
   </data>
   <data name="verplaatsToolStripMenuItem1.Text" xml:space="preserve">
     <value>Verplaats</value>
   </data>
   <data name="cmTaak.Size" type="System.Drawing.Size, System.Drawing">
-    <value>131, 48</value>
+    <value>120, 48</value>
   </data>
   <data name="&gt;&gt;cmTaak.Name" xml:space="preserve">
     <value>cmTaak</value>
   </data>
   <data name="&gt;&gt;cmTaak.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="btPausestart.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
@@ -301,7 +301,7 @@
     <value>btPausestart</value>
   </data>
   <data name="&gt;&gt;btPausestart.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btPausestart.Parent" xml:space="preserve">
     <value>$this</value>
@@ -309,7 +309,7 @@
   <data name="&gt;&gt;btPausestart.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>216, 17</value>
   </metadata>
   <data name="cbAlwaysOnTop.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -337,7 +337,7 @@
     <value>cbAlwaysOnTop</value>
   </data>
   <data name="&gt;&gt;cbAlwaysOnTop.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;cbAlwaysOnTop.Parent" xml:space="preserve">
     <value>$this</value>
@@ -345,7 +345,7 @@
   <data name="&gt;&gt;cbAlwaysOnTop.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <metadata name="timer2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="timer2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>299, 17</value>
   </metadata>
   <data name="btForceTick.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -367,7 +367,7 @@
     <value>btForceTick</value>
   </data>
   <data name="&gt;&gt;btForceTick.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btForceTick.Parent" xml:space="preserve">
     <value>$this</value>
@@ -384,6 +384,9 @@
   <data name="webBrowser1.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
+  <data name="webBrowser1.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>20, 20</value>
+  </data>
   <data name="webBrowser1.Size" type="System.Drawing.Size, System.Drawing">
     <value>508, 214</value>
   </data>
@@ -394,7 +397,7 @@
     <value>webBrowser1</value>
   </data>
   <data name="&gt;&gt;webBrowser1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.WebBrowser, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.WebBrowser, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;webBrowser1.Parent" xml:space="preserve">
     <value>tabPage1</value>
@@ -418,7 +421,7 @@
     <value>tabPage1</value>
   </data>
   <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
     <value>tcActLijst</value>
@@ -439,7 +442,7 @@
     <value>tcActLijst</value>
   </data>
   <data name="&gt;&gt;tcActLijst.Type" xml:space="preserve">
-    <value>DraggableTabControl.DraggableTabControl, DraggableTabControl, Version=1.0.3912.28340, Culture=neutral, PublicKeyToken=null</value>
+    <value>DraggableTabControl.DraggableTabControl, DraggableTabControl, Version=1.0.6398.17318, Culture=neutral, PublicKeyToken=null</value>
   </data>
   <data name="&gt;&gt;tcActLijst.Parent" xml:space="preserve">
     <value>$this</value>
@@ -447,7 +450,7 @@
   <data name="&gt;&gt;tcActLijst.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
@@ -509,138 +512,138 @@
     <value>verwijderToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;verwijderToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;hernoemToolStripMenuItem.Name" xml:space="preserve">
     <value>hernoemToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;hernoemToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;toolStripTextBox1.Name" xml:space="preserve">
     <value>toolStripTextBox1</value>
   </data>
   <data name="&gt;&gt;toolStripTextBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripTextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;eigenschappenToolStripMenuItem.Name" xml:space="preserve">
     <value>eigenschappenToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;eigenschappenToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;sorteerTakenToolStripMenuItem.Name" xml:space="preserve">
     <value>sorteerTakenToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;sorteerTakenToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;verwijderVoltooidToolStripMenuItem.Name" xml:space="preserve">
     <value>verwijderVoltooidToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;verwijderVoltooidToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;verwijderAllesToolStripMenuItem.Name" xml:space="preserve">
+    <value>verwijderAllesToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;verwijderAllesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;toolStripSeparator1.Name" xml:space="preserve">
     <value>toolStripSeparator1</value>
   </data>
   <data name="&gt;&gt;toolStripSeparator1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;verbergToolStripMenuItem.Name" xml:space="preserve">
     <value>verbergToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;verbergToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;toonverbergTabToolStripMenuItem.Name" xml:space="preserve">
     <value>toonverbergTabToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;toonverbergTabToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;toolStripSeparator2.Name" xml:space="preserve">
     <value>toolStripSeparator2</value>
   </data>
   <data name="&gt;&gt;toolStripSeparator2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;geagendeerdeTakenToolStripMenuItem.Name" xml:space="preserve">
     <value>geagendeerdeTakenToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;geagendeerdeTakenToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;toolStripSeparator3.Name" xml:space="preserve">
     <value>toolStripSeparator3</value>
   </data>
   <data name="&gt;&gt;toolStripSeparator3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;opslaanToolStripMenuItem.Name" xml:space="preserve">
     <value>opslaanToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;opslaanToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;verwijderToolStripMenuItem1.Name" xml:space="preserve">
     <value>verwijderToolStripMenuItem1</value>
   </data>
   <data name="&gt;&gt;verwijderToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;verplaatsToolStripMenuItem1.Name" xml:space="preserve">
     <value>verplaatsToolStripMenuItem1</value>
   </data>
   <data name="&gt;&gt;verplaatsToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;bovenaanToolStripMenuItem1.Name" xml:space="preserve">
     <value>bovenaanToolStripMenuItem1</value>
   </data>
   <data name="&gt;&gt;bovenaanToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;naarBovenToolStripMenuItem1.Name" xml:space="preserve">
     <value>naarBovenToolStripMenuItem1</value>
   </data>
   <data name="&gt;&gt;naarBovenToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;naarOnderToolStripMenuItem1.Name" xml:space="preserve">
     <value>naarOnderToolStripMenuItem1</value>
   </data>
   <data name="&gt;&gt;naarOnderToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;onderaanToolStripMenuItem1.Name" xml:space="preserve">
     <value>onderaanToolStripMenuItem1</value>
   </data>
   <data name="&gt;&gt;onderaanToolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;timer1.Name" xml:space="preserve">
     <value>timer1</value>
   </data>
   <data name="&gt;&gt;timer1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;timer2.Name" xml:space="preserve">
     <value>timer2</value>
   </data>
   <data name="&gt;&gt;timer2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkForUpdateToolStripMenuItem.Name" xml:space="preserve">
-    <value>checkForUpdateToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;checkForUpdateToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>MainForm</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>

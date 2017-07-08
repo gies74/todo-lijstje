@@ -10,7 +10,6 @@ using System.Xml;
 using System.Collections;
 using TodoLijstje.Resources;
 using Microsoft.Win32;
-using SelfUpdateClient;
 
 namespace TodoLijstje
 {
@@ -599,11 +598,11 @@ namespace TodoLijstje
 
             if (this.tcActLijst.SelectedTab.Tag is Activiteit)
             {
-                verwijderVoltooidToolStripMenuItem.Enabled = verbergToolStripMenuItem.Enabled = sorteerTakenToolStripMenuItem.Enabled = eigenschappenToolStripMenuItem.Enabled = verwijderToolStripMenuItem.Enabled = hernoemToolStripMenuItem.Enabled = true;
+                verwijderAllesToolStripMenuItem.Enabled = verwijderVoltooidToolStripMenuItem.Enabled = verbergToolStripMenuItem.Enabled = sorteerTakenToolStripMenuItem.Enabled = eigenschappenToolStripMenuItem.Enabled = verwijderToolStripMenuItem.Enabled = hernoemToolStripMenuItem.Enabled = true;
             }
             else
             {
-                verwijderVoltooidToolStripMenuItem.Enabled = verbergToolStripMenuItem.Enabled = sorteerTakenToolStripMenuItem.Enabled = eigenschappenToolStripMenuItem.Enabled = verwijderToolStripMenuItem.Enabled = hernoemToolStripMenuItem.Enabled = false;
+                verwijderAllesToolStripMenuItem.Enabled = verwijderVoltooidToolStripMenuItem.Enabled = verbergToolStripMenuItem.Enabled = sorteerTakenToolStripMenuItem.Enabled = eigenschappenToolStripMenuItem.Enabled = verwijderToolStripMenuItem.Enabled = hernoemToolStripMenuItem.Enabled = false;
                 SaveConfig();
                 webBrowser1.Refresh();
             }
@@ -802,7 +801,6 @@ namespace TodoLijstje
         /// <param name="e"></param>
         private void showProps(object sender, EventArgs e)
         {
-            long total;
             m_frmActProps.m_actCurr = tcActLijst.SelectedTab.Tag as Activiteit;
             m_frmActProps.setNaam(m_frmActProps.m_actCurr.m_sDesc);
             m_frmActProps.ShowDialog();
@@ -1084,6 +1082,7 @@ namespace TodoLijstje
 
         private void VerwijderVoltooid_Click(object sender, EventArgs e)
         {
+            bool alles = (sender == verwijderAllesToolStripMenuItem);
             IEnumerator ce = tcActLijst.SelectedTab.Controls.GetEnumerator();
             ce.MoveNext();
 
@@ -1092,7 +1091,7 @@ namespace TodoLijstje
                 TreeView tv = ce.Current as TreeView;
                 for (int i = tv.Nodes.Count - 2; i >= 0; i--)
                 {
-                    if (tv.Nodes[i].Checked)
+                    if (tv.Nodes[i].Checked || alles)
                         tv.Nodes[i].Remove();
                 }
             }
@@ -1103,9 +1102,5 @@ namespace TodoLijstje
             timer2_Tick(null, null);
         }
 
-        private void checkForUpdateToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            SelfUpdate.DoSelfUpdate(this);
-        }
     }
 }

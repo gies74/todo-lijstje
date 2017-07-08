@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoLijstje", "TodoLijstje\TodoLijstje.csproj", "{55EC0FAB-8464-4F11-9C27-0D8D9D58B0C2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9768FF46-1509-4B32-9B23-5DB183D8A348} = {9768FF46-1509-4B32-9B23-5DB183D8A348}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraggableTabControl", "DraggableTabControl\DraggableTabControl.csproj", "{9768FF46-1509-4B32-9B23-5DB183D8A348}"
 EndProject
@@ -15,6 +18,7 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{55EC0FAB-8464-4F11-9C27-0D8D9D58B0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EC0FAB-8464-4F11-9C27-0D8D9D58B0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55EC0FAB-8464-4F11-9C27-0D8D9D58B0C2}.DebugFrozen|Any CPU.ActiveCfg = DebugFrozen|Any CPU
 		{55EC0FAB-8464-4F11-9C27-0D8D9D58B0C2}.DebugFrozen|Any CPU.Build.0 = DebugFrozen|Any CPU
 		{55EC0FAB-8464-4F11-9C27-0D8D9D58B0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
