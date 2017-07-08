@@ -1,0 +1,719 @@
+<ACTIVITIES>
+  <ACTIVITY id="b134b26f-9335-49fa-a6e3-ca0d8f37c33e" visible="True">
+    <DESCRIPTION>Vandaag</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="patrick laatste code" completed="False" />
+      <TASK description="ma/di in goes" completed="False" />
+      <TASK description="release notes mw naar nl" completed="False" />
+      <TASK description="plot dll datum" completed="True" />
+      <TASK description="diasys" completed="True" />
+      <TASK description="issue schematics" completed="False" />
+      <TASK description="spat indexes / performance / NOG NIET" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="07-Apr-08">5912</DAY>
+      <DAY day="08-Apr-08">0</DAY>
+      <DAY day="28-Feb-08">0</DAY>
+      <DAY day="20-Feb-08">0</DAY>
+      <DAY day="18-Apr-08">3896</DAY>
+      <DAY day="19-May-08">42</DAY>
+      <DAY day="26-Apr-08">0</DAY>
+      <DAY day="22-Jul-08">11688</DAY>
+      <DAY day="16-May-08">2</DAY>
+      <DAY day="27-Feb-08">1</DAY>
+      <DAY day="25-Feb-08">11636</DAY>
+      <DAY day="10-Mar-08">10</DAY>
+      <DAY day="03-Jun-08">6723</DAY>
+      <DAY day="26-May-08">19</DAY>
+      <DAY day="20-May-08">19</DAY>
+      <DAY day="25-Mar-08">1745</DAY>
+      <DAY day="28-Mar-08">10</DAY>
+      <DAY day="05-Jun-08">23815</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="02d1096f-0b51-4321-99df-09232df7b01f" visible="True">
+    <DESCRIPTION>Delta Restpunten</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="*" completed="False" />
+      <TASK description="code eelco mail 26-mei" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="01-Apr-08">7380</DAY>
+      <DAY day="20-May-08">145</DAY>
+      <DAY day="18-Apr-08">23652</DAY>
+      <DAY day="02-Jul-08">24004</DAY>
+      <DAY day="06-May-08">7200</DAY>
+      <DAY day="19-May-08">1800</DAY>
+      <DAY day="16-May-08">32</DAY>
+      <DAY day="15-May-08">3600</DAY>
+      <DAY day="07-Apr-08">24416</DAY>
+      <DAY day="06-Jun-08">14045</DAY>
+      <DAY day="26-May-08">13182</DAY>
+      <DAY day="04-Apr-08">28403</DAY>
+      <DAY day="03-Jun-08">21652</DAY>
+      <DAY day="21-Jul-08">12754</DAY>
+      <DAY day="05-Jun-08">5400</DAY>
+      <DAY day="03-Apr-08">14400</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="54b47b27-3b4f-41dc-8882-bb9f15f95680" visible="True">
+    <DESCRIPTION>Delta Schematic</DESCRIPTION>
+    <AVAILABLETIME>288000</AVAILABLETIME>
+    <TASKS>
+      <TASK description="300mm dikker - dikkelijn via prog. static attribuut" completed="False" />
+      <TASK description="*" completed="False" />
+      <TASK description="auto layout" completed="True" />
+      <TASK description="kardinaliteit punten 0, ook van includes/cxn_includes" completed="False" />
+      <TASK description="kleur installeen" completed="True" />
+      <TASK description="LD stukje" completed="False" />
+      <TASK description="nieuwe naam junctions" completed="True" />
+      <TASK description="node reductie beter, netjuncs kard 2" completed="True" />
+      <TASK description="topo kaart op zelfde blad" completed="False" />
+      <TASK description="V op afsluiters + tekst (DICHT)" completed="False" />
+      <TASK description="W: hoe zit netwerk in elkaar" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="26-Mar-08">25255</DAY>
+      <DAY day="20-May-08">51</DAY>
+      <DAY day="20-Feb-08">0</DAY>
+      <DAY day="28-Feb-08">17414</DAY>
+      <DAY day="06-May-08">14968</DAY>
+      <DAY day="29-Feb-08">27046</DAY>
+      <DAY day="21-Feb-08">1800</DAY>
+      <DAY day="13-May-08">29237</DAY>
+      <DAY day="19-May-08">7200</DAY>
+      <DAY day="16-May-08">28463</DAY>
+      <DAY day="15-May-08">15356</DAY>
+      <DAY day="23-Jul-08">29240</DAY>
+      <DAY day="27-Feb-08">5968</DAY>
+      <DAY day="10-Mar-08">11</DAY>
+      <DAY day="17-Jun-08">23932</DAY>
+      <DAY day="13-Mar-08">24227</DAY>
+      <DAY day="18-Apr-08">5</DAY>
+      <DAY day="25-Jul-08">3748</DAY>
+      <DAY day="27-Mar-08">2233</DAY>
+      <DAY day="01-Apr-08">19459</DAY>
+      <DAY day="07-May-08">29292</DAY>
+      <DAY day="16-Jun-08">19583</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="85884fba-8c40-45a8-b8f3-cff0eb0933da" visible="True">
+    <DESCRIPTION>Vitens inwerken</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="23-Jul-08">10</DAY>
+      <DAY day="06-Jun-08">31</DAY>
+      <DAY day="05-Jun-08">10800</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="fe6bef76-3e50-4a83-9915-d4b9686d36d9" visible="True">
+    <DESCRIPTION>Delta ATOS support</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="wo: meldinge Erwin Alberts waren gedocumenteerd" completed="False" />
+      <TASK description="wo: uitloggen van schematics omdat B.Havekes beweert dat SP4 actief is" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="23-Jul-08">2700</DAY>
+      <DAY day="21-Jul-08">15480</DAY>
+      <DAY day="25-Jul-08">11562</DAY>
+      <DAY day="22-Jul-08">11416</DAY>
+      <DAY day="13-Jun-08">14400</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="98ccf9c1-9f84-4846-9b17-c8bdb378d7e9" visible="True">
+    <DESCRIPTION>Privé</DESCRIPTION>
+    <AVAILABLETIME>359999</AVAILABLETIME>
+    <TASKS>
+      <TASK description="Rob" completed="True" />
+      <TASK description="Richard" completed="True" />
+      <TASK description="Thomas" completed="True" />
+      <TASK description="Martin H" completed="True" />
+      <TASK description="Martin W" completed="False" />
+      <TASK description="Gijs" completed="False" />
+      <TASK description="Carlo &amp; D" completed="True" />
+      <TASK description="Lucas &amp; N" completed="False" />
+      <TASK description="Jeroen &amp; J" completed="True" />
+      <TASK description="Edwin" completed="False" />
+      <TASK description="Guido" completed="True" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="28-Nov-07">1540</DAY>
+      <DAY day="01-Dec-07">0</DAY>
+      <DAY day="03-Dec-07">21</DAY>
+      <DAY day="17-Dec-07">112</DAY>
+      <DAY day="26-Nov-07">0</DAY>
+      <DAY day="30-Nov-07">51</DAY>
+      <DAY day="04-Jan-08">3863</DAY>
+      <DAY day="29-Nov-07">19</DAY>
+      <DAY day="19-Dec-07">1</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="b06a4b77-176e-4c28-8a41-5f4ede7d1017" visible="True">
+    <DESCRIPTION>Tensing Multiweb</DESCRIPTION>
+    <AVAILABLETIME>3599999</AVAILABLETIME>
+    <TASKS>
+      <TASK description="lic file" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="13-Mar-08">0</DAY>
+      <DAY day="28-Jan-08">1800</DAY>
+      <DAY day="21-Jul-08">1814</DAY>
+      <DAY day="07-Jan-08">39</DAY>
+      <DAY day="03-Jun-08">1402</DAY>
+      <DAY day="04-Jan-08">2742</DAY>
+      <DAY day="04-Feb-08">15</DAY>
+      <DAY day="25-Feb-08">1</DAY>
+      <DAY day="30-Jan-08">0</DAY>
+      <DAY day="29-Jan-08">0</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="fcc5ab78-7ea5-47ee-87f5-aec0be0c5855" visible="True">
+    <DESCRIPTION>PNH Dienstenbundel</DESCRIPTION>
+    <AVAILABLETIME>374400</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="06-Dec-07">2729</DAY>
+      <DAY day="31-Mar-08">3600</DAY>
+      <DAY day="07-Apr-08">2421</DAY>
+      <DAY day="05-Dec-07">42</DAY>
+      <DAY day="25-Jun-08">7200</DAY>
+      <DAY day="29-Nov-07">618</DAY>
+      <DAY day="19-Dec-07">21146</DAY>
+      <DAY day="14-Apr-08">0</DAY>
+      <DAY day="20-Dec-07">16591</DAY>
+      <DAY day="16-Apr-08">3600</DAY>
+      <DAY day="17-Jul-08">7200</DAY>
+      <DAY day="25-Jul-08">7</DAY>
+      <DAY day="27-Nov-07">11283</DAY>
+      <DAY day="10-Jun-08">18125</DAY>
+      <DAY day="26-Nov-07">9324</DAY>
+      <DAY day="10-Jan-08">14400</DAY>
+      <DAY day="21-Dec-07">24050</DAY>
+      <DAY day="13-Dec-07">2700</DAY>
+      <DAY day="14-Jan-08">6486</DAY>
+      <DAY day="01-Apr-08">34</DAY>
+      <DAY day="15-Jan-08">6486</DAY>
+      <DAY day="17-Dec-07">2859</DAY>
+      <DAY day="12-Jan-08">0</DAY>
+      <DAY day="04-Jan-08">11050</DAY>
+      <DAY day="21-Jan-08">58</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="13157806-b36e-4fdd-a511-fb3927f0e16a" visible="True">
+    <DESCRIPTION>Delft ondersteuning/calls</DESCRIPTION>
+    <AVAILABLETIME>3602439</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="18-Jan-08">3654</DAY>
+      <DAY day="30-Jan-08">1800</DAY>
+      <DAY day="25-Jul-08">5721</DAY>
+      <DAY day="26-Mar-08">6341</DAY>
+      <DAY day="20-Feb-08">0</DAY>
+      <DAY day="25-Jan-08">2833</DAY>
+      <DAY day="23-Jul-08">10800</DAY>
+      <DAY day="02-Jan-08">987</DAY>
+      <DAY day="07-Aug-08">0</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="f4edf71a-25e2-4361-8e84-e8416a55e1f8" visible="False">
+    <DESCRIPTION>Delta F8 Vullen favolijst</DESCRIPTION>
+    <AVAILABLETIME>14400</AVAILABLETIME>
+    <TASKS>
+      <TASK description="kieke welke tlb en dll wegkan" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="30-Nov-07">0</DAY>
+      <DAY day="26-Nov-07">1</DAY>
+      <DAY day="29-Nov-07">6931</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="ae5f40a5-59a3-4b8a-b584-eab8da5f4bb0" visible="False">
+    <DESCRIPTION>Delta raadpleeg</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="urresulttable fout mail 23-11 10:08 gjv" completed="True" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="30-Nov-07">16</DAY>
+      <DAY day="29-Nov-07">0</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="68c9407e-6e63-4a62-825e-4d86953645b4" visible="False">
+    <DESCRIPTION>Reistijd</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="28-Nov-07">6</DAY>
+      <DAY day="27-Nov-07">4200</DAY>
+      <DAY day="29-Nov-07">11</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="5dcbdc51-450a-47c8-9ed4-a8bdc7b4b423" visible="False">
+    <DESCRIPTION>Kadaster wereldgisdag</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="28-Nov-07">3</DAY>
+      <DAY day="26-Nov-07">1</DAY>
+      <DAY day="29-Nov-07">8</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="a5b12be3-0324-412a-81fd-69adf7585c83" visible="False">
+    <DESCRIPTION>R1test Tekbeheer</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="05-Dec-07">1807</DAY>
+      <DAY day="04-Dec-07">9000</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="e4235918-26ce-45c8-a915-16880da4a2b7" visible="False">
+    <DESCRIPTION>Delft monumenten</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="Paul opdracht klaar" completed="True" />
+      <TASK description="Op p-schijf zetten" completed="True" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="26-Nov-07">1929</DAY>
+      <DAY day="29-Nov-07">39</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="b508d6b8-b6eb-4afb-b42c-a8c43820f97c" visible="False">
+    <DESCRIPTION>NHB Tenuki overleg</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="13-Dec-07">5427</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="30b5b497-2e59-49ac-bfc2-096f8de25824" visible="False">
+    <DESCRIPTION>Delta Diasys</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="knopje diasys naast loep en hilight" completed="False" />
+      <TASK description="OV aansluitingen" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="17-Dec-07">12</DAY>
+      <DAY day="13-Dec-07">0</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="53698e24-4f9e-4c9e-a7e8-886b3ad54c0c" visible="False">
+    <DESCRIPTION>Overhead Werkoverleg</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="02-Jan-08">2717</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="e1945042-8600-4007-898b-edc5158d904a" visible="False">
+    <DESCRIPTION>Delta SessMgr</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="30-Nov-07">17</DAY>
+      <DAY day="16-Jan-08">7200</DAY>
+      <DAY day="05-Dec-07">34</DAY>
+      <DAY day="04-Dec-07">1043</DAY>
+      <DAY day="13-Dec-07">7219</DAY>
+      <DAY day="29-Nov-07">4990</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="6ae53b84-b5cd-4e43-9923-f01187818b58" visible="False">
+    <DESCRIPTION>Overhead reistijd</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="15-Jan-08">10800</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="828fa14c-c6e5-4873-8a07-754c26004cd3" visible="False">
+    <DESCRIPTION>Tensing Operationssessie</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="14-Jan-08">4029</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="a9d1bade-6426-4154-a307-d3eb30621ee7" visible="False">
+    <DESCRIPTION>Delta IRIS LS ZB/GS</DESCRIPTION>
+    <AVAILABLETIME>57600</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="16-Jan-08">7200</DAY>
+      <DAY day="06-Dec-07">3600</DAY>
+      <DAY day="22-Jan-08">7200</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="e861a183-cc72-45a4-a432-762f8fc8db6e" visible="False">
+    <DESCRIPTION>Delta 9.2.1</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="tdelta4" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="14-Jan-08">1371</DAY>
+      <DAY day="17-Dec-07">4616</DAY>
+      <DAY day="19-Dec-07">254</DAY>
+      <DAY day="18-Jan-08">8091</DAY>
+      <DAY day="18-Dec-07">5736</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="671c3b98-ae2b-42d7-b8ff-9890136fcddb" visible="False">
+    <DESCRIPTION>Delta TekBeheer</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="06-Feb-08">912</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="f5a87cb8-4120-4079-9527-bcc4e4f56933" visible="False">
+    <DESCRIPTION>JP&amp;R</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="27-Mar-08">7207</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="5b77ff83-8b53-43c5-9cde-872e6ecf224e" visible="False">
+    <DESCRIPTION>FME UC 2008</DESCRIPTION>
+    <AVAILABLETIME>230400</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="07-Apr-08">0</DAY>
+      <DAY day="30-Jan-08">24367</DAY>
+      <DAY day="31-Jan-08">269</DAY>
+      <DAY day="04-Feb-08">1808</DAY>
+      <DAY day="07-Feb-08">0</DAY>
+      <DAY day="05-Feb-08">18000</DAY>
+      <DAY day="18-Jan-08">90</DAY>
+      <DAY day="07-Jul-08">0</DAY>
+      <DAY day="06-Feb-08">0</DAY>
+      <DAY day="07-Mar-08">0</DAY>
+      <DAY day="07-May-08">0</DAY>
+      <DAY day="07-Jun-08">0</DAY>
+      <DAY day="03-Mar-08">728</DAY>
+      <DAY day="15-Jan-08">5400</DAY>
+      <DAY day="07-Jan-08">14604</DAY>
+      <DAY day="25-Jan-08">0</DAY>
+      <DAY day="07-Aug-08">0</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="1b015c03-73aa-4617-b20a-6d24d932e253" visible="False">
+    <DESCRIPTION>NHB overleg</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="14-Mar-08">6865</DAY>
+      <DAY day="30-Nov-07">0</DAY>
+      <DAY day="26-Feb-08">28800</DAY>
+      <DAY day="28-Feb-08">0</DAY>
+      <DAY day="27-Feb-08">1814</DAY>
+      <DAY day="27-Nov-07">7200</DAY>
+      <DAY day="28-Nov-07">7</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="08292ae6-55e7-425d-a5a3-3f0b1c17c365" visible="False">
+    <DESCRIPTION>Delta F10 Userexit</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="Bouw user exit" completed="False" />
+      <TASK description="uitbreidingen, ASSET_NO en CALCULATED_LENGTH" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="21-Jan-08">4126</DAY>
+      <DAY day="30-Nov-07">16</DAY>
+      <DAY day="16-Jan-08">0</DAY>
+      <DAY day="05-Dec-07">2482</DAY>
+      <DAY day="01-Feb-08">24170</DAY>
+      <DAY day="29-Nov-07">1889</DAY>
+      <DAY day="28-Jun-08">0</DAY>
+      <DAY day="28-Feb-08">0</DAY>
+      <DAY day="19-Dec-07">3</DAY>
+      <DAY day="29-Jan-08">28800</DAY>
+      <DAY day="22-Jan-08">21600</DAY>
+      <DAY day="30-Jan-08">0</DAY>
+      <DAY day="05-Feb-08">10800</DAY>
+      <DAY day="27-Nov-07">212</DAY>
+      <DAY day="28-Apr-08">0</DAY>
+      <DAY day="25-Feb-08">14299</DAY>
+      <DAY day="14-Feb-08">19800</DAY>
+      <DAY day="06-Feb-08">4321</DAY>
+      <DAY day="28-Oct-07">0</DAY>
+      <DAY day="28-Nov-07">0</DAY>
+      <DAY day="13-Dec-07">3620</DAY>
+      <DAY day="28-Dec-07">0</DAY>
+      <DAY day="27-Feb-08">16693</DAY>
+      <DAY day="04-Dec-07">2640</DAY>
+      <DAY day="24-Jan-08">16306</DAY>
+      <DAY day="28-May-08">0</DAY>
+      <DAY day="03-Dec-07">10476</DAY>
+      <DAY day="26-Nov-07">1</DAY>
+      <DAY day="18-Jan-08">3367</DAY>
+      <DAY day="25-Jan-08">14400</DAY>
+      <DAY day="17-Dec-07">22</DAY>
+      <DAY day="28-Jan-08">21000</DAY>
+      <DAY day="28-Mar-08">0</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="11002714-4281-4ac5-9ff8-312d0027b4df" visible="False">
+    <DESCRIPTION>PVG</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="14-Apr-08">28800</DAY>
+      <DAY day="16-Apr-08">0</DAY>
+      <DAY day="06-Feb-08">9916</DAY>
+      <DAY day="03-Dec-07">6313</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="7e4dffd7-3b42-416d-abcc-ea61a0edb412" visible="False">
+    <DESCRIPTION>Delta Buiten scope</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="certificaten" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="26-Mar-08">27</DAY>
+      <DAY day="28-Feb-08">0</DAY>
+      <DAY day="10-Apr-08">0</DAY>
+      <DAY day="27-Mar-08">9641</DAY>
+      <DAY day="18-Apr-08">48</DAY>
+      <DAY day="09-Apr-08">14400</DAY>
+      <DAY day="01-Apr-08">118</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="8217cb30-79ea-498d-96ef-3a454a26661f" visible="False">
+    <DESCRIPTION>PNH Multiweb support</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="call 5465 Ongeldig XML antwoord" completed="True" />
+      <TASK description="call 5464 Zoeker werkt niet goed" completed="True" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="04-Apr-08">0</DAY>
+      <DAY day="02-Jan-08">140</DAY>
+      <DAY day="09-Apr-08">2700</DAY>
+      <DAY day="07-Apr-08">1205</DAY>
+      <DAY day="15-Feb-08">6352</DAY>
+      <DAY day="03-Apr-08">7200</DAY>
+      <DAY day="04-Jan-08">3607</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="00cbcaa4-4a06-4a9e-851e-fd181768e379" visible="False">
+    <DESCRIPTION>NHB oplevering</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="icoontje hele provincie in help" completed="False" />
+      <TASK description="plaatje zoekers in help" completed="False" />
+      <TASK description="legendafilter" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="31-Mar-08">25200</DAY>
+      <DAY day="01-Apr-08">38</DAY>
+      <DAY day="16-Apr-08">25200</DAY>
+      <DAY day="28-Mar-08">15325</DAY>
+      <DAY day="15-Apr-08">28800</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="1653ebc6-e1fc-4639-98c4-0ba7b78a3cef" visible="False">
+    <DESCRIPTION>Delta intern overleg</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="15-May-08">1800</DAY>
+      <DAY day="04-Dec-07">3</DAY>
+      <DAY day="07-Jan-08">4100</DAY>
+      <DAY day="03-Dec-07">4057</DAY>
+      <DAY day="14-Jan-08">4508</DAY>
+      <DAY day="17-Dec-07">4251</DAY>
+      <DAY day="07-Apr-08">3606</DAY>
+      <DAY day="11-Feb-08">2643</DAY>
+      <DAY day="04-Feb-08">3622</DAY>
+      <DAY day="25-Feb-08">3609</DAY>
+      <DAY day="03-Mar-08">2700</DAY>
+      <DAY day="10-Mar-08">5273</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="c3d1b29e-1433-499f-b980-7a12e4563c7b" visible="False">
+    <DESCRIPTION>NHB Test verwerken</DESCRIPTION>
+    <AVAILABLETIME>254586</AVAILABLETIME>
+    <TASKS>
+      <TASK description="7 rapporten Arthur mogelijk maken" completed="True" />
+      <TASK description="15 oorzaak onderzoeken: groene selectiekleur multiweb, ipv cyaan" completed="True" />
+      <TASK description="20 knoppen &quot;OK&quot; veranderen in &quot;Bevestigen&quot;, &quot;Toon&quot; naar &quot;Tonen&quot;" completed="True" />
+      <TASK description="26 dikke zwarte stippellijn om gemeente selectie" completed="True" />
+      <TASK description="31 picklist gemeente en/of wegnummer laten staan, maar na gebruik van de ene, de ander resetten" completed="True" />
+      <TASK description="33: Texel: niet start, wel pannen: past Tensing aan op AXL productie" completed="False" />
+      <TASK description="34 - zie 31" completed="True" />
+      <TASK description="35 - zie 33" completed="True" />
+      <TASK description="50: teksten in eigen venster, net als links" completed="True" />
+      <TASK description="HL1: tekstballon automatisch sluiten bij elke refresh van de kaart" completed="True" />
+      <TASK description="HL2 bij opvrragen info altijd bestaande selectie opheffen" completed="True" />
+      <TASK description="AR1: (alleen) bij opslaan project de Multiweb waiter tonen" completed="True" />
+      <TASK description="AR2: zie 31" completed="True" />
+      <TASK description="GB1: icoontje in helptekst updaten - Marius Greuel 22:00" completed="True" />
+      <TASK description="GB2: zie 50" completed="True" />
+      <TASK description="GB3: zie 50" completed="True" />
+      <TASK description="58: SCALEDEPENDENTRENDERER gaan gebruiken" completed="False" />
+      <TASK description="style sheet nalopen" completed="True" />
+      <TASK description="favicon" completed="True" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="25-Jan-08">16353</DAY>
+      <DAY day="28-Jan-08">45</DAY>
+      <DAY day="28-Dec-07">0</DAY>
+      <DAY day="31-Jan-08">14857</DAY>
+      <DAY day="29-Jan-08">0</DAY>
+      <DAY day="20-Dec-07">9043</DAY>
+      <DAY day="21-Feb-08">27698</DAY>
+      <DAY day="04-Feb-08">517</DAY>
+      <DAY day="07-Feb-08">7200</DAY>
+      <DAY day="15-Mar-08">0</DAY>
+      <DAY day="15-May-08">440</DAY>
+      <DAY day="27-Feb-08">57</DAY>
+      <DAY day="25-Feb-08">148</DAY>
+      <DAY day="10-Mar-08">25908</DAY>
+      <DAY day="15-Feb-08">14045</DAY>
+      <DAY day="25-Mar-08">18660</DAY>
+      <DAY day="15-Apr-08">0</DAY>
+      <DAY day="15-Jan-08">0</DAY>
+      <DAY day="14-Mar-08">19409</DAY>
+      <DAY day="18-Jan-08">69</DAY>
+      <DAY day="13-Feb-08">2706</DAY>
+      <DAY day="21-Jan-08">21202</DAY>
+      <DAY day="28-Mar-08">2763</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="88d49ae2-9e51-47f3-961b-f942b8044858" visible="False">
+    <DESCRIPTION>Sydney Water</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="20-May-08">13230</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="588ab6b1-a039-439f-824a-9470c2fab51b" visible="False">
+    <DESCRIPTION>NHB Realiseren software</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="28-Nov-07">9</DAY>
+      <DAY day="04-Dec-07">7</DAY>
+      <DAY day="27-Nov-07">1092</DAY>
+      <DAY day="03-Dec-07">367</DAY>
+      <DAY day="14-Jan-08">2</DAY>
+      <DAY day="10-Dec-07">28834</DAY>
+      <DAY day="02-Jun-08">18059</DAY>
+      <DAY day="03-Jun-08">21</DAY>
+      <DAY day="26-Nov-07">11222</DAY>
+      <DAY day="06-Dec-07">20189</DAY>
+      <DAY day="10-Jun-08">15</DAY>
+      <DAY day="29-Nov-07">684</DAY>
+      <DAY day="13-Dec-07">1800</DAY>
+      <DAY day="19-Dec-07">2</DAY>
+      <DAY day="11-Dec-07">28800</DAY>
+      <DAY day="20-Dec-07">7</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="d81b9ce7-d790-4e47-9b08-2235f59c9bdb" visible="False">
+    <DESCRIPTION>Eneco</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS>
+      <TASK description="laatste versie in VSS plaatsen" completed="False" />
+    </TASKS>
+    <TIMESPENT>
+      <DAY day="14-May-08">0</DAY>
+      <DAY day="16-May-08">132</DAY>
+      <DAY day="06-May-08">7200</DAY>
+      <DAY day="20-May-08">27</DAY>
+      <DAY day="26-May-08">19</DAY>
+      <DAY day="03-Jun-08">22</DAY>
+      <DAY day="07-May-08">6</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="c493ed14-e087-4a6b-86e3-081d8ae8b440" visible="False">
+    <DESCRIPTION>Coaching FK</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="25-Jun-08">3600</DAY>
+      <DAY day="03-Apr-08">3600</DAY>
+      <DAY day="28-Mar-08">10663</DAY>
+      <DAY day="10-Jun-08">5400</DAY>
+      <DAY day="01-Apr-08">11</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="3082f557-d39e-4cff-847d-30b60e684085" visible="False">
+    <DESCRIPTION>Delta Overdracht</DESCRIPTION>
+    <AVAILABLETIME>0</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="11-Feb-08">3621</DAY>
+      <DAY day="20-May-08">2</DAY>
+      <DAY day="16-Jun-08">7200</DAY>
+      <DAY day="15-May-08">7939</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <ACTIVITY id="e2459638-4a71-496c-bcc4-740c9f8c7ada" visible="False">
+    <DESCRIPTION>Cox</DESCRIPTION>
+    <AVAILABLETIME>288000</AVAILABLETIME>
+    <TASKS />
+    <TIMESPENT>
+      <DAY day="29-May-08">37211</DAY>
+      <DAY day="13-Jun-08">14400</DAY>
+      <DAY day="20-May-08">18923</DAY>
+      <DAY day="19-May-08">19800</DAY>
+      <DAY day="02-Jun-08">8600</DAY>
+      <DAY day="27-May-08">28800</DAY>
+      <DAY day="26-May-08">29018</DAY>
+      <DAY day="06-Jun-08">14456</DAY>
+      <DAY day="10-Jun-08">9073</DAY>
+      <DAY day="28-May-08">28800</DAY>
+      <DAY day="30-May-08">45417</DAY>
+      <DAY day="05-Jun-08">0</DAY>
+    </TIMESPENT>
+  </ACTIVITY>
+  <SCHEDULEDACTION id="eab1f9af-6685-4fd9-850a-61bbb9f1811d" hasbeenfired="False">
+    <FIRE>633531150000000000</FIRE>
+    <ALERTMSG>Laatste werkdag vd maand: Uren schrijven</ALERTMSG>
+    <REPEAT type="weekday" times="99">last 1 15 01-00</REPEAT>
+  </SCHEDULEDACTION>
+  <SCHEDULEDACTION id="eab1f9af-fa85-4fd9-850a-61bbb9f1811d" hasbeenfired="False">
+    <FIRE>633530052000000000</FIRE>
+    <ALERTMSG>Backup maken</ALERTMSG>
+    <REPEAT type="period" times="99">14-00-00 00:00</REPEAT>
+  </SCHEDULEDACTION>
+  <SCHEDULEDACTION id="ba40332c-41f2-4ca3-9469-2fe0db3bc0da" hasbeenfired="False">
+    <FIRE>633532014000000000</FIRE>
+    <ALERTMSG>Uren schrijven + submitten</ALERTMSG>
+    <REPEAT type="period" times="99">07-00-00 00:00</REPEAT>
+  </SCHEDULEDACTION>
+  <SCHEDULEDACTION id="776ce809-2ba6-466a-8dd9-da47bb360e59" hasbeenfired="False">
+    <FIRE>633536100000000000</FIRE>
+    <ALERTMSG>GFT buiten</ALERTMSG>
+    <REPEAT type="period" times="99">14-00-00 00:00</REPEAT>
+  </SCHEDULEDACTION>
+  <SCHEDULEDACTION id="a60a3aa7-9604-4d99-84a0-ca8238583e70" hasbeenfired="False">
+    <FIRE>633767799000000000</FIRE>
+    <ALERTMSG>License ArcEditor verloopt over week</ALERTMSG>
+  </SCHEDULEDACTION>
+  <SCHEDULEDACTION id="2bf6920c-999e-4437-9860-e3148dfdff82" hasbeenfired="True">
+    <FIRE>633471366600000000</FIRE>
+    <ALERTMSG>License MultiWeb verloopt as woensdag</ALERTMSG>
+  </SCHEDULEDACTION>
+  <SCHEDULEDACTION id="f8142069-2381-4ad3-a323-6469d855c7cc" hasbeenfired="False">
+    <FIRE>633555997200000000</FIRE>
+    <ALERTMSG>Borrel ZBL</ALERTMSG>
+    <REPEAT type="weekday" times="99">last 1 16 01-00</REPEAT>
+  </SCHEDULEDACTION>
+  <SCHEDULEDACTION id="30054ba5-78ea-44c4-9958-afee88da81be" hasbeenfired="False">
+    <FIRE>633544083000000000</FIRE>
+    <ALERTMSG>A.s. woensdag 20-8 14:45 Tandarts</ALERTMSG>
+  </SCHEDULEDACTION>
+</ACTIVITIES>
